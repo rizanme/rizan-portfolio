@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rizan-portfolio/static/css/main.8fc20005.css",
-    "main.js": "/rizan-portfolio/static/js/main.151ba1ba.js",
+    "main.js": "/rizan-portfolio/static/js/main.0d99b876.js",
     "static/js/453.b05d8aa5.chunk.js": "/rizan-portfolio/static/js/453.b05d8aa5.chunk.js",
     "static/media/bg-light.png": "/rizan-portfolio/static/media/bg-light.bac0efb485244a522981.png",
     "static/media/mock03.png": "/rizan-portfolio/static/media/mock03.56c15df5947e63708d77.png",
@@ -16,11 +16,11 @@
     "static/media/mock05.png": "/rizan-portfolio/static/media/mock05.71f7720023428deb0d42.png",
     "index.html": "/rizan-portfolio/index.html",
     "main.8fc20005.css.map": "/rizan-portfolio/static/css/main.8fc20005.css.map",
-    "main.151ba1ba.js.map": "/rizan-portfolio/static/js/main.151ba1ba.js.map",
+    "main.0d99b876.js.map": "/rizan-portfolio/static/js/main.0d99b876.js.map",
     "453.b05d8aa5.chunk.js.map": "/rizan-portfolio/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8fc20005.css",
-    "static/js/main.151ba1ba.js"
+    "static/js/main.0d99b876.js"
   ]
 }
